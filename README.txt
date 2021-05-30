@@ -1,0 +1,1 @@
+This is a website design for Blooger travel blogs/agency with the usage of HTML/CSS, JavaScript, jQuery, FontAwesome, Carol Carousel
