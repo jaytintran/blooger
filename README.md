@@ -1,5 +1,4 @@
-# Blooger | ✈️
-## Responsive Travel Landign Page
+# Blooger | ✈️ Responsive Travel Landing Page
 
 - Using HTML, CSS & JAVASCRIPT.
 - Contains animations when scrolling.
